@@ -1,6 +1,6 @@
 # DSC180A Methodology Assignment 4
 
-**Name:** Idhant Kumar
+**Name:** Idhant Kumar 
 **Email:** ikumar@ucsd.edu
 
 **Section:** A02
