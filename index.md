@@ -3,7 +3,7 @@
 **Name:** Idhant Kumar  
 **Email:** ikumar@ucsd.edu
 
-**Section:** A02
+**Section:** A02  
 **Mentor:** Gupta
 
 ---
