@@ -1,10 +1,10 @@
 # DSC180A Methodology Assignment 4
 
-**Name:** [Your Full Name]  
-**Email:** [youremail@ucsd.edu]
+**Name:** Idhant Kumar
+**Email:** ikumar@ucsd.edu
 
-**Section:** [Your Section Letter/Number]  
-**Mentor:** [Your Mentor's Name]
+**Section:** A02
+**Mentor:** Gupta
 
 ---
 
